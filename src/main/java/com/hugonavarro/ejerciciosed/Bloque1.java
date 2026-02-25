@@ -6,8 +6,6 @@ public class Bloque1 {
     }
 
     public static void main(String[] args) {
-        // EJERCICIO 1
-
         /* CASO 1
         Entradas: 59 & 8
         Resultado esperado: 54,28
@@ -71,8 +69,6 @@ public class Bloque1 {
         */
 
         System.out.println("CASO 8: " + calcularPrecioFinal(20, 100));
-
-        // EJERCICIO 2
 
         /* CASO 9 (Número del Descuento en Negativo)
         Entradas: 70 & -30
